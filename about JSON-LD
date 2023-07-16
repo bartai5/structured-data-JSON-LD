@@ -1,0 +1,130 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Organization",
+  "name": "Beta Geo-Consultants LTD",
+  "url": "https://www.betageoconsultants.co.ke",
+  "logo": "https://www.betageoconsultants.co.ke/gallery/Logo.webp",
+  "sameAs": [
+    "https://facebook.com/betageoconsultants",
+    "https://wa.me/message/EONTRJX3EIVQO1",
+    "https://linkedin.com/company/beta-geo-consultants"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "26928-00100, Nairobi Kenya"
+  },
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "telephone": "+254-715-758935",
+    "contactType": "customer service"
+  },
+  "description": "Beta Geo-Consultants limited is a geological consultancy firm that deals with Geotechnical investigations of the Earth. We offer quality services including expertise in hydrological survey, borehole drilling, borehole camera inspection, submersible pump installation, pump testing services, elevated tower construction, and borehole solarization services. Contact us for consultation, supervision, and contracting. Thank You!",
+  "keywords": "geo-consultants, boreholes, borehole drilling prices, geophysical surveys, hydrogeological surveys, borehole drilling, coring, steel tank installation, borehole solarisations, consultation, borehole pump installation, submersible pump installation in Kenya, hydrological survey in Kenya, borehole camera inspection in Kenya, borehole camera inspection, borehole maintenance services",
+  "author": "Beta Geo-Consultants LTD",
+  "robots": "index, follow",
+  "revisit-after": "7 days",
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": "https://www.betageoconsultants.co.ke/search?q={search_term_string}",
+    "query-input": "required name=search_term_string"
+  },
+  "potentialAction": {
+    "@type": "CommunicateAction",
+    "target": {
+      "@type": "EntryPoint",
+      "urlTemplate": "https://www.betageoconsultants.co.ke/contact",
+      "inLanguage": "en",
+      "actionPlatform": [
+        "http://schema.org/DesktopWebPlatform",
+        "http://schema.org/IOSPlatform",
+        "http://schema.org/AndroidPlatform"
+      ]
+    },
+    "expectsAcceptanceOf": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "USD"
+    }
+  },
+  "image": [
+    "https://www.betageoconsultants.co.ke/gallery/drop.ico",
+    "https://www.betageoconsultants.co.ke/gallery/Logo.webp",
+    "https://www.betageoconsultants.co.ke/gallery/our-team.webp",
+    "https://www.betageoconsultants.co.ke/gallery/cog-wheel.webp",
+    "https://www.betageoconsultants.co.ke/gallery/water-quality.webp",
+    "https://www.betageoconsultants.co.ke/gallery/customer.webp",
+    "https://www.betageoconsultants.co.ke/gallery/ceo.webp",
+    "https://www.betageoconsultants.co.ke/gallery/footer-logo.webp"
+  ],
+  "headline": "About Us | Beta Geo-Consultants LTD",
+  "mainEntityOfPage": "https://www.betageoconsultants.co.ke",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Beta Geo-Consultants LTD",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.betageoconsultants.co.ke/gallery/Logo.webp"
+    }
+  },
+  "contactOption": "TollFree",
+  "potentialAction": {
+    "@type": "ContactAction",
+    "contactType": "customer support",
+    "telephone": "+254-715-758935"
+  },
+  "openingHoursSpecification": [
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday"
+      ],
+      "opens": "08:00",
+      "closes": "17:00"
+    },
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "Saturday",
+      "opens": "09:00",
+      "closes": "13:00"
+    }
+  ],
+  "description": "We are a leading water drilling consultants agency specializing in a comprehensive range of services to meet the diverse water needs of communities, industries, and businesses. We offer expertise in hydrological survey, borehole drilling, borehole camera inspection, submersible pump installation, pump testing services, elevated tower construction, and borehole solarization services.",
+  "service": [
+    {
+      "@type": "Service",
+      "name": "Hydrological/Geotechnical Survey Services"
+    },
+    {
+      "@type": "Service",
+      "name": "Borehole Drilling Services"
+    },
+    {
+      "@type": "Service",
+      "name": "Borehole Camera Inspection Services"
+    },
+    {
+      "@type": "Service",
+      "name": "Submersible Pump Installation Services"
+    },
+    {
+      "@type": "Service",
+      "name": "Pump Testing Services"
+    },
+    {
+      "@type": "Service",
+      "name": "Elevated Tower Construction Services"
+    },
+    {
+      "@type": "Service",
+      "name": "Borehole Solarization Services"
+    },
+    {
+      "@type": "Service",
+      "name": "Borehole Consulting Services"
+    }
+  ]
+}
