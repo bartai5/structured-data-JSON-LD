@@ -1,0 +1,63 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Organization",
+  "name": "Beta Geo-Consultants LTD",
+  "url": "https://www.betageoconsultants.co.ke",
+  "logo": "https://www.betageoconsultants.co.ke/gallery/Logo.webp",
+  "sameAs": [
+    "https://facebook.com/betageoconsultants",
+    "https://wa.me/message/EONTRJX3EIVQO1",
+    "https://linkedin.com/company/beta-geo-consultants"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "26928-00100, Nairobi Kenya"
+  },
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "telephone": "+254-715-758935",
+    "contactType": "customer service"
+  },
+  "service": [
+    {
+      "@type": "Service",
+      "name": "Hydrological/Geotechnical Survey Services",
+      "description": "Expert assessments of water resources, ensuring accurate data for informed decision-making and sustainable water management practices."
+    },
+    {
+      "@type": "Service",
+      "name": "Borehole Drilling Services",
+      "description": "Professional drilling solutions tailored to your needs, delivering reliable access to groundwater for various applications."
+    },
+    {
+      "@type": "Service",
+      "name": "Borehole Camera Inspection Services",
+      "description": "Thorough visual inspections of boreholes, providing valuable insights into condition, integrity, and potential issues."
+    },
+    {
+      "@type": "Service",
+      "name": "Submersible Pump Installation Services",
+      "description": "Efficient pump installation services, expertly selecting and installing submersible pumps to maximize water extraction."
+    },
+    {
+      "@type": "Service",
+      "name": "Test Pumping Services",
+      "description": "Test pumping services to evaluate borehole performance and aquifer characteristics."
+    },
+    {
+      "@type": "Service",
+      "name": "Elevated Tower Construction Services",
+      "description": "Safe and durable tower construction for elevated water storage and distribution systems."
+    },
+    {
+      "@type": "Service",
+      "name": "Borehole Solarisation Services",
+      "description": "Sustainable solutions utilizing solar energy to power borehole systems."
+    },
+    {
+      "@type": "Service",
+      "name": "Borehole Consulting Services",
+      "description": "Expert guidance and consulting for borehole projects."
+    }
+  ]
+}
